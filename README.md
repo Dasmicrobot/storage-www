@@ -1,4 +1,9 @@
-# storage-www
+storage-www
+===========================
+
+[![Build Status](https://travis-ci.org/Dasmicrobot/storage-www.svg?branch=master)](https://travis-ci.org/Dasmicrobot/storage-www)
+
+List publicly accessible S3 storage content.
 
 ### Requirements
 
